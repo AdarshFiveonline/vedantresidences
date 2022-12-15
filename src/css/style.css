@@ -174,7 +174,7 @@ section{width: 100%;display: block;padding: 30px 0px}
 .rera-details h4{font-family: var(--secondary-font);color: var(--title-color);}
 .rera-details p{font-family: var(--secondary-font);font-size: 17px;text-align: justify;}
 
-
+.footer-side-widegts{display: none;}
 .footer-side-widegts{position: fixed; /*z-index: 99999999999; */ bottom: 0;left: 0;width: 100%; background: var(--title-color);padding: 10px 10px;}
 .footer-side-widegts ul{width: 100%;display: flex;padding-left: 0;align-items: center;margin-bottom: 0;border: 1px solid var(--white-color);}
 .footer-side-widegts ul li{width: 50%;float: left;text-align: center;list-style: none;font-family: var(--secondary-font);border-right: 1px solid var(--white-color);}
@@ -212,11 +212,11 @@ section{width: 100%;display: block;padding: 30px 0px}
 	.desktop-img{display: none;}
 	.mobile-img{display: block;}
 	.location-box-details ul li{width: 100%;}
-	
 	.header-navigaton-logo{margin-left: 10px;}
 	.top-strips-inner h3{font-size: 18px;}
 	.feature-inner-details{padding: 30px 20px;}
 	.contact-inner-details{padding: 30px 20px;}
+	.footer-side-widegts{display: block;}
 	
 }
 
